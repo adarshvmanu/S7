@@ -39,7 +39,6 @@ void main()
 }
 void first(char ch)
 {
-    int m=0;
     if(!isupper(ch))
     {
       printf("%c",ch);
